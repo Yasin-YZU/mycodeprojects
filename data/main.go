@@ -12,10 +12,10 @@ func main(){
 	var myluckyNumber int
 	var coolFact string
 
-	name = "sat"
-	luckyNumber = 2
-	funFact = "I love to play football"
-	fmt.Println(name)
-	fmt.Println(luckyNumber)
-	fmt.Println(funFact)
+	myname = "Yasin"
+	myluckyNumber = 7
+	coolFact = "I love to play football"
+	fmt.Println(myname)
+	fmt.Println(myluckyNumber)
+	fmt.Println(coolFact)
 }
