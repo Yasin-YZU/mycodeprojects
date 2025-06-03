@@ -8,9 +8,9 @@ func main(){
 	//var student1 int
   //student1 = 2
 	//fmt.Println(student1)#
-	var name string
-	var luckyNumber int
-	var funFact string
+	var myname string
+	var myluckyNumber int
+	var coolFact string
 
 	name = "sat"
 	luckyNumber = 2
