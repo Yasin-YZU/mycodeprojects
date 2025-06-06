@@ -7,7 +7,7 @@ func main(){
 		if even % 2 == 0{
 			fmt.Println(even)
 		}
-	} else{
+	}else{
 		odd % 2 == 1{
 			fmt.Println(odd)
 		}
